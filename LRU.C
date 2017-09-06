@@ -62,4 +62,4 @@ void LRU()
     LRU();
     getch();
     clrscr();
-}
+   }
